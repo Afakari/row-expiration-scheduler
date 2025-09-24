@@ -1,5 +1,3 @@
-// scheduler/scheduler_test.go
-
 package scheduler
 
 import (
